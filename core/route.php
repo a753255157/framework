@@ -2,8 +2,8 @@
 namespace core;
 
 class route{
-    public $controller = 'site';
-    public $action = 'index';
+    public $controller = 'Site';
+    public $action = 'Index';
     
     public function __construct()
     {
